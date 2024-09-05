@@ -1,0 +1,138 @@
+[class~="screen"] {
+  position: absolute;
+}
+
+body {
+  margin-left: 0;
+}
+
+body {
+  margin-bottom: 0;
+}
+
+body {
+  margin-right: 0;
+}
+
+body {
+  margin-top: 0;
+}
+
+[class~="screen"] {
+  text-align: center;
+}
+
+[class~="screen"] {
+  padding-left: 1.25pc;
+}
+
+body {
+  padding-left: 0;
+}
+
+[class~="screen"] {
+  padding-bottom: 1.25pc;
+}
+
+[class~="screen"] {
+  padding-right: 1.25pc;
+}
+
+body {
+  padding-bottom: 0;
+}
+
+[class~="screen"] {
+  padding-top: 1.25pc;
+}
+
+body {
+  padding-right: 0;
+}
+
+[class~="screen"] {
+  width: 100%;
+}
+
+[class~="screen"] {
+  height: 100%;
+}
+
+[class~="screen"],
+body {
+  display: flex;
+}
+
+body {
+  padding-top: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+[class~="screen"] {
+  flex-direction: column;
+}
+
+body {
+  background-color: #1a1a1a;
+}
+
+[class~="screen"],
+body {
+  justify-content: center;
+}
+
+body {
+  color: white;
+}
+
+[class~="screen"],
+body {
+  align-items: center;
+}
+
+body {
+  height: 100vh;
+}
+
+[class~="screen"] {
+  transition: transform 1s ease, opacity 0.5s ease;
+}
+
+body {
+  overflow: hidden;
+}
+
+[class~="screen"] {
+  transform: translateY(100%);
+}
+
+[class~="screen"] {
+  opacity: 0;
+}
+
+[class~="screen"] {
+  pointer-events: none;
+}
+
+[class~="active"] {
+  transform: translateY(0);
+}
+
+[class~="active"] {
+  opacity: 1;
+}
+
+[class~="active"] {
+  pointer-events: auto;
+}
+
+[class~="warning-text"] {
+  color: red;
+}
+
+[class~="warning-text"] {
+  font-size: 2rem;
+}
